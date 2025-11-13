@@ -156,7 +156,7 @@ Enter the OP : x
 
 ---
 
-## 📦 How to Run This Program
+##  How to Run This Program
 
 1. Save the code as Calculator.java
 2. Open terminal/command prompt
